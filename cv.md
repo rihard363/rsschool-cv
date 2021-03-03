@@ -1,10 +1,6 @@
-<center>
-
 # Alexey Savchenko
 
 _I'm not a programmer, I'm just learning_
-
-</center>
 
 ### **Contacts:**
 
