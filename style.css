@@ -1,0 +1,24 @@
+h1,
+h3,
+p {
+  margin: 0;
+}
+img {
+  width: 5%;
+}
+.content {
+  margin: auto;
+  width: 50%;
+  height: 100%;
+  background-color: dimgrey;
+  color: beige;
+}
+body {
+  background-color: black;
+}
+h3 {
+  color: darkred;
+}
+h1 {
+  color: darkgoldenrod;
+}
